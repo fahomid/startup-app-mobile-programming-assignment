@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Startup App - Assignment 1</string>
+    <string-array name="options_items">
+        <item>Select An Action</item>
+        <item>Change Background</item>
+        <item>Change Text Color</item>
+        <item>Change TextView Text Size</item>
+        <item>Edit TextView</item>
+        <item>Reset Views</item>
+    </string-array>
+
+    <string-array name="color_items">
+        <item>Select A Color</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Gray</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+    </string-array>
+</resources>
